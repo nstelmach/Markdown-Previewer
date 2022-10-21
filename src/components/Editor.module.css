@@ -1,0 +1,30 @@
+.editorWrap {
+  max-width: 600px;
+  min-height: 200px;
+  margin: 2rem auto;
+}
+
+textarea {
+  background-color: #ffc2ec;
+  border: 1px solid #4d2182;
+  box-shadow: 1px 1px 10px 2px #4d2182;
+  width: 100%;
+  min-height: 97%;
+  height: 200px;
+  padding-left: 5px;
+  padding-top: 5px;
+  font-size: 0.875rem;
+  resize: none;
+}
+
+@media screen and (max-width: 850px) {
+  .editorWrap {
+    max-width: 550px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .editorWrap {
+    width: 80vw;
+  }
+}

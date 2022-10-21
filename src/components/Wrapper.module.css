@@ -1,0 +1,8 @@
+.maximized {
+  max-width: 80%;
+  margin: 2rem auto;
+  height: 70vw;
+  background-color: #ffc2ec;
+  border: 1px solid #4d2182;
+  box-shadow: 1px 1px 10px 2px #4d2182;
+}

@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background: #ffaddd;
+}
+
+@media screen and (max-width: 420px) {
+  body {
+    font-size: 0.875rem;
+  }
+}
