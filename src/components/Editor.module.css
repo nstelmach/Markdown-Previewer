@@ -4,8 +4,8 @@
   margin: 2rem auto;
 }
 
-textarea {
-  background-color: #ffc2ec;
+.textarea {
+  background-color: #fcdaf2;
   border: 1px solid #4d2182;
   box-shadow: 1px 1px 10px 2px #4d2182;
   width: 100%;

@@ -8,7 +8,12 @@ function Editor(props) {
       htmlFor={props.htmlFor}
       text="Editor"
     >
-      <textarea id={props.id} value={props.text} onChange={props.onChange} />
+      <textarea
+        id={props.id}
+        value={props.text}
+        onChange={props.onChange}
+        className={classes.textarea}
+      />
     </Wrapper>
   );
 }
