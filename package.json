@@ -1,7 +1,7 @@
 {
   "name": "markdown-previewer",
   "version": "0.1.0",
-  "homepage": "https://nstelmach.github.io/Markdown-Previewer-React-App",
+  "homepage": "https://nstelmach.github.io/Markdown-Previewer",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
